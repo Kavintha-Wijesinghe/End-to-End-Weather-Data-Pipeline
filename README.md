@@ -1,6 +1,6 @@
 # 🌦️ End-to-End Weather Data Pipeline  
 
-![Pipeline Architecture](.pipeline_architecture.png)  
+![Pipeline Architecture](/pipeline_architecture.png)  
 *Example: Add your pipeline diagram image to `/assets/pipeline_architecture.png`*
 
 ---
